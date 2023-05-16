@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/bin/Debug/net5.0/Switch-Case
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/bin/Debug/net5.0/Switch-Case.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/bin/Debug/net5.0/Switch-Case.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/bin/Debug/net5.0/Switch-Case.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/bin/Debug/net5.0/Switch-Case.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/bin/Debug/net5.0/Switch-Case.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/Switch-Case.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/Switch-Case.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/Switch-Case.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/Switch-Case.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/Switch-Case.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/refint/Switch-Case.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/Switch-Case.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/Switch-Case.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Switch-Case/obj/Debug/net5.0/ref/Switch-Case.dll
