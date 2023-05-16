@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/bin/Debug/net5.0/If-Else-If
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/bin/Debug/net5.0/If-Else-If.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/bin/Debug/net5.0/If-Else-If.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/bin/Debug/net5.0/If-Else-If.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/bin/Debug/net5.0/If-Else-If.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/bin/Debug/net5.0/If-Else-If.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/If-Else-If.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/If-Else-If.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/If-Else-If.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/If-Else-If.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/If-Else-If.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/If-Else-If.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/refint/If-Else-If.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/If-Else-If.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/If-Else-If.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/If-Else-If/obj/Debug/net5.0/ref/If-Else-If.dll
