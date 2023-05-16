@@ -1,0 +1,15 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/bin/Debug/net5.0/For-Loop.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/bin/Debug/net5.0/For-Loop.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/bin/Debug/net5.0/For-Loop.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/bin/Debug/net5.0/For-Loop.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/bin/Debug/net5.0/ref/For-Loop.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/bin/Debug/net5.0/For-Loop.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/For-Loop.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/For-Loop.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/For-Loop.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/For-Loop.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/For-Loop.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/ref/For-Loop.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/For-Loop.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/For-Loop/obj/Debug/net5.0/For-Loop.genruntimeconfig.cache

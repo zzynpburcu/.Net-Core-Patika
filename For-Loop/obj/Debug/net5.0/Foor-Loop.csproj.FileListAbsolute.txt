@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/bin/Debug/net5.0/Foor-Loop
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/bin/Debug/net5.0/Foor-Loop.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/bin/Debug/net5.0/Foor-Loop.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/bin/Debug/net5.0/Foor-Loop.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/bin/Debug/net5.0/Foor-Loop.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/bin/Debug/net5.0/Foor-Loop.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/Foor-Loop.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/Foor-Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/Foor-Loop.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/Foor-Loop.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/Foor-Loop.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/Foor-Loop.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/refint/Foor-Loop.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/Foor-Loop.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/Foor-Loop.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Foor-Loop/obj/Debug/net5.0/ref/Foor-Loop.dll
