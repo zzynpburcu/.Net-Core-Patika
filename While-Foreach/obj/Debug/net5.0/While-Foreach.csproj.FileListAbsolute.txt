@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/bin/Debug/net5.0/While-Foreach
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/bin/Debug/net5.0/While-Foreach.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/bin/Debug/net5.0/While-Foreach.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/bin/Debug/net5.0/While-Foreach.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/bin/Debug/net5.0/While-Foreach.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/bin/Debug/net5.0/While-Foreach.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/While-Foreach.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/While-Foreach.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/While-Foreach.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/While-Foreach.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/While-Foreach.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/refint/While-Foreach.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/While-Foreach.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/While-Foreach.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/While-Foreach/obj/Debug/net5.0/ref/While-Foreach.dll
