@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/bin/Debug/net5.0/Array-Class-Methods
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/bin/Debug/net5.0/Array-Class-Methods.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/bin/Debug/net5.0/Array-Class-Methods.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/bin/Debug/net5.0/Array-Class-Methods.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/bin/Debug/net5.0/Array-Class-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/bin/Debug/net5.0/Array-Class-Methods.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/Array-Class-Methods.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/Array-Class-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/Array-Class-Methods.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/Array-Class-Methods.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/Array-Class-Methods.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/Array-Class-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/refint/Array-Class-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/Array-Class-Methods.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/Array-Class-Methods.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Array-Class-Methods/obj/Debug/net5.0/ref/Array-Class-Methods.dll
