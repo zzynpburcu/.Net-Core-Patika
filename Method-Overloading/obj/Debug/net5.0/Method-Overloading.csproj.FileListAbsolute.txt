@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/bin/Debug/net5.0/Method-Overloading
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/bin/Debug/net5.0/Method-Overloading.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/bin/Debug/net5.0/Method-Overloading.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/bin/Debug/net5.0/Method-Overloading.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/bin/Debug/net5.0/Method-Overloading.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/bin/Debug/net5.0/Method-Overloading.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/Method-Overloading.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/Method-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/Method-Overloading.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/Method-Overloading.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/Method-Overloading.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/Method-Overloading.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/refint/Method-Overloading.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/Method-Overloading.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/Method-Overloading.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Method-Overloading/obj/Debug/net5.0/ref/Method-Overloading.dll
