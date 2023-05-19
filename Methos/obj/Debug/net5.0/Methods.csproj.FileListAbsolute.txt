@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/bin/Debug/net5.0/Methods
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/bin/Debug/net5.0/Methods.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/bin/Debug/net5.0/Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/bin/Debug/net5.0/Methods.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/Methods.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/refint/Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/Methods.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Methods/obj/Debug/net5.0/ref/Methods.dll
