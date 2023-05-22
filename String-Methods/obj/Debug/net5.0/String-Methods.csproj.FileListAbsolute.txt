@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/bin/Debug/net5.0/String-Methods
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/bin/Debug/net5.0/String-Methods.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/bin/Debug/net5.0/String-Methods.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/bin/Debug/net5.0/String-Methods.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/bin/Debug/net5.0/String-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/bin/Debug/net5.0/String-Methods.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/String-Methods.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/String-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/String-Methods.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/String-Methods.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/String-Methods.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/String-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/refint/String-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/String-Methods.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/String-Methods.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/String-Methods/obj/Debug/net5.0/ref/String-Methods.dll
