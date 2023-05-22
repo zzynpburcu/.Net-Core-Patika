@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/bin/Debug/net5.0/DateTime-Math-Classes
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/bin/Debug/net5.0/DateTime-Math-Classes.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/bin/Debug/net5.0/DateTime-Math-Classes.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/bin/Debug/net5.0/DateTime-Math-Classes.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/bin/Debug/net5.0/DateTime-Math-Classes.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/bin/Debug/net5.0/DateTime-Math-Classes.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/DateTime-Math-Classes.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/DateTime-Math-Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/DateTime-Math-Classes.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/DateTime-Math-Classes.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/DateTime-Math-Classes.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/DateTime-Math-Classes.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/refint/DateTime-Math-Classes.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/DateTime-Math-Classes.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/DateTime-Math-Classes.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/DateTime-Math-Classes/obj/Debug/net5.0/ref/DateTime-Math-Classes.dll
