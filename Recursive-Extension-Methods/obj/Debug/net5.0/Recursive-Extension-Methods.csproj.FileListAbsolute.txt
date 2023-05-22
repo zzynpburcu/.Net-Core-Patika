@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/bin/Debug/net5.0/Recursive-Extension-Methods
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/bin/Debug/net5.0/Recursive-Extension-Methods.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/bin/Debug/net5.0/Recursive-Extension-Methods.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/bin/Debug/net5.0/Recursive-Extension-Methods.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/bin/Debug/net5.0/Recursive-Extension-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/bin/Debug/net5.0/Recursive-Extension-Methods.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/Recursive-Extension-Methods.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/Recursive-Extension-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/Recursive-Extension-Methods.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/Recursive-Extension-Methods.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/Recursive-Extension-Methods.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/Recursive-Extension-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/refint/Recursive-Extension-Methods.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/Recursive-Extension-Methods.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/Recursive-Extension-Methods.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Recursive-Extension-Methods/obj/Debug/net5.0/ref/Recursive-Extension-Methods.dll
