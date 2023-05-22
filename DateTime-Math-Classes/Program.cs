@@ -42,6 +42,10 @@ namespace DateTime_Math_Classes
 
             Console.WriteLine(DateTime.Now.ToString("yy")); //23
             Console.WriteLine(DateTime.Now.ToString("yyyy")); //2023
+            //Convert to 12 hours to 24 hours
+            string s = "07:05:45PM";
+            DateTime timeValue = Convert.ToDateTime(s);
+            timeValue.ToString("HH:mm:ss"); // 19:05:45
 
             //Math Kütüphanesi
             Console.WriteLine(Math.Abs(-25)); //25
