@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/bin/Debug/net5.0/ArrayListt
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/bin/Debug/net5.0/ArrayListt.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/bin/Debug/net5.0/ArrayListt.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/bin/Debug/net5.0/ArrayListt.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/bin/Debug/net5.0/ArrayListt.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/bin/Debug/net5.0/ArrayListt.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ArrayListt.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ArrayListt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ArrayListt.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ArrayListt.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ArrayListt.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ArrayListt.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/refint/ArrayListt.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ArrayListt.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ArrayListt.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/ArrayListt/obj/Debug/net5.0/ref/ArrayListt.dll
