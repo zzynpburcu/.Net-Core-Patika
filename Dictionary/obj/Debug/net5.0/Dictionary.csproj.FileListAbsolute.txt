@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/bin/Debug/net5.0/Dictionary
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/bin/Debug/net5.0/Dictionary.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/bin/Debug/net5.0/Dictionary.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/bin/Debug/net5.0/Dictionary.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/bin/Debug/net5.0/Dictionary.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/bin/Debug/net5.0/Dictionary.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/Dictionary.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/Dictionary.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/Dictionary.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/Dictionary.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/refint/Dictionary.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/Dictionary.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/Dictionary.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Dictionary/obj/Debug/net5.0/ref/Dictionary.dll
