@@ -93,11 +93,23 @@ namespace Generic_List
             }
 
             yeniListe.Clear(); // Listeyi temizle
-
-
-
+            
+            //Generic Fonksiyon İçin Kullanılan Alan
+                n = Convert.ToInt32(Console.ReadLine());
+		        string[] stringArray = new string[n];
+		        for (int i = 0; i < n; i++)
+		        {
+		        	stringArray[i] = Console.ReadLine();
+		         }
+		        PrintArray<Int32>(intArray);
 
         }
+        
+              // Generic Fonksiyon Oluşturma  
+              static void PrintArray<T>(T[] parameter){
+              foreach(var item in parameter){
+                  Console.WriteLine(item); } 
+                  }
     }
 
     public class Kullanıcılar
