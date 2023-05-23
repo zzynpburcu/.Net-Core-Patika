@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/bin/Debug/net5.0/Generic-List
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/bin/Debug/net5.0/Generic-List.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/bin/Debug/net5.0/Generic-List.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/bin/Debug/net5.0/Generic-List.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/bin/Debug/net5.0/Generic-List.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/bin/Debug/net5.0/Generic-List.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/Generic-List.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/Generic-List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/Generic-List.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/Generic-List.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/Generic-List.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/Generic-List.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/refint/Generic-List.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/Generic-List.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/Generic-List.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Generic-List/obj/Debug/net5.0/ref/Generic-List.dll
