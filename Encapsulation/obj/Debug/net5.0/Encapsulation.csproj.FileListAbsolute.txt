@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/bin/Debug/net5.0/Encapsulation
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/bin/Debug/net5.0/Encapsulation.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/bin/Debug/net5.0/Encapsulation.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/bin/Debug/net5.0/Encapsulation.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/Encapsulation.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/Encapsulation.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/refint/Encapsulation.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/Encapsulation.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/Encapsulation.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Encapsulation/obj/Debug/net5.0/ref/Encapsulation.dll
