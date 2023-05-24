@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/bin/Debug/net5.0/Koleksiyonlar-Soru-3
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/bin/Debug/net5.0/Koleksiyonlar-Soru-3.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/bin/Debug/net5.0/Koleksiyonlar-Soru-3.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/bin/Debug/net5.0/Koleksiyonlar-Soru-3.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/bin/Debug/net5.0/Koleksiyonlar-Soru-3.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/bin/Debug/net5.0/Koleksiyonlar-Soru-3.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/Koleksiyonlar-Soru-3.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/Koleksiyonlar-Soru-3.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/refint/Koleksiyonlar-Soru-3.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/Koleksiyonlar-Soru-3.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/Koleksiyonlar-Soru-3.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Patika-CSharp-Odev2/Koleksiyonlar-Soru-3/obj/Debug/net5.0/ref/Koleksiyonlar-Soru-3.dll
