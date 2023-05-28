@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/bin/Debug/net5.0/Static-Classes
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/bin/Debug/net5.0/Static-Classes.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/bin/Debug/net5.0/Static-Classes.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/bin/Debug/net5.0/Static-Classes.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/bin/Debug/net5.0/Static-Classes.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/bin/Debug/net5.0/Static-Classes.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/Static-Classes.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/Static-Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/Static-Classes.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/Static-Classes.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/Static-Classes.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/Static-Classes.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/refint/Static-Classes.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/Static-Classes.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/Static-Classes.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Static-Classes/obj/Debug/net5.0/ref/Static-Classes.dll
