@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/bin/Debug/net5.0/Struct
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/bin/Debug/net5.0/Struct.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/bin/Debug/net5.0/Struct.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/bin/Debug/net5.0/Struct.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/bin/Debug/net5.0/Struct.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/bin/Debug/net5.0/Struct.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/Struct.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/Struct.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/Struct.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/Struct.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/Struct.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/refint/Struct.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/Struct.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/Struct.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Struct/obj/Debug/net5.0/ref/Struct.dll
