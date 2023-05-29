@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/bin/Debug/net5.0/Enum
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/bin/Debug/net5.0/Enum.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/bin/Debug/net5.0/Enum.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/bin/Debug/net5.0/Enum.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/bin/Debug/net5.0/Enum.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/bin/Debug/net5.0/Enum.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/Enum.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/Enum.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/Enum.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/Enum.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/Enum.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/refint/Enum.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/Enum.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/Enum.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Enum/obj/Debug/net5.0/ref/Enum.dll
