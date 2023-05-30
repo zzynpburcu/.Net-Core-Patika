@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/bin/Debug/net5.0/Inheritence
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/bin/Debug/net5.0/Inheritence.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/bin/Debug/net5.0/Inheritence.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/bin/Debug/net5.0/Inheritence.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/bin/Debug/net5.0/Inheritence.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/bin/Debug/net5.0/Inheritence.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/Inheritence.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/Inheritence.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/Inheritence.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/Inheritence.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/Inheritence.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/refint/Inheritence.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/Inheritence.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/Inheritence.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Inheritence/obj/Debug/net5.0/ref/Inheritence.dll
