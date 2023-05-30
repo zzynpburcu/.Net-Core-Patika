@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/bin/Debug/net5.0/Interface
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/bin/Debug/net5.0/Interface.deps.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/bin/Debug/net5.0/Interface.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/bin/Debug/net5.0/Interface.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/bin/Debug/net5.0/Interface.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/bin/Debug/net5.0/Interface.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/Interface.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/Interface.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/Interface.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/Interface.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/Interface.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/refint/Interface.dll
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/Interface.pdb
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/Interface.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/Patika/Interface/obj/Debug/net5.0/ref/Interface.dll
