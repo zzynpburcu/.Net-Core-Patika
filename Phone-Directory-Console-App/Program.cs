@@ -9,7 +9,7 @@ namespace Telephone_Directory
           Directory directory = new Directory();
 
         Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz:");
-        Console.WriteLine("*******************************************");
+        Console.WriteLine("******************************************ß**");
         Console.WriteLine("(1) Yeni Numara Kaydetmek");
         Console.WriteLine("(2) Varolan Numarayı Silmek");
         Console.WriteLine("(3) Varolan Numarayı Güncelleme");

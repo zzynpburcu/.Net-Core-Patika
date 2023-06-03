@@ -214,7 +214,7 @@ namespace Telephone_Directory
                 }
                 else
                 {
-                    Console.WriteLine("Geçersiz seçim. Arama işlemi iptal edildi.");
+                    Console.WriteLine("Geçersiz seçim.Arama işlemi iptal edildi.");
                 }
             }
 
