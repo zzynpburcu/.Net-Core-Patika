@@ -1,24 +1,24 @@
 using System;
+using System.Collections.Generic;
 
 namespace ToDo_Console_App
 {
-    public class Kart
+    public class Card
     {
         private string baslik;
         private string icerik;
-        private int atanankisi;
-        private string buyukluk;
+        private string atanankisi;
+        private Buyukluk buyukluk;
 
-        public Kart(string baslik, string icerik, int atanankisi, string buyukluk)
-        {
-            this.baslik = baslik;
-            this.icerik = icerik;
-            this.atanankisi = atanankisi;
-            this.buyukluk = buyukluk;
-        }
-
+        public string Baslik { get => baslik; set => baslik = value; }
+        public string Atanankisi { get => atanankisi; set => atanankisi = value; }
+        public Buyukluk Buyukluk { get => buyukluk; set => buyukluk = value; }
+        public string Icerik { get => icerik; set => icerik = value; }
 
     }
+
+
+
 
 
 
